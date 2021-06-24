@@ -1,1 +1,5 @@
-Well, this isn't exactly what they gave me.  I need to start opening a new window or something instead.
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
